@@ -1,0 +1,7 @@
+C:\CodeProjects\Klasser1\bin\Debug\Klasser1.exe.config
+C:\CodeProjects\Klasser1\bin\Debug\Klasser1.exe
+C:\CodeProjects\Klasser1\bin\Debug\Klasser1.pdb
+C:\CodeProjects\Klasser1\obj\Debug\Klasser1.csprojAssemblyReference.cache
+C:\CodeProjects\Klasser1\obj\Debug\Klasser1.exe
+C:\CodeProjects\Klasser1\obj\Debug\Klasser1.pdb
+C:\CodeProjects\Klasser1\obj\Debug\Klasser1.csproj.CoreCompileInputs.cache
